@@ -148,5 +148,3 @@ numero = input("Ingresá un número: ")
 numero_invertido = numero[::-1]
 
 print("El número invertido es:", numero_invertido)
-
-print("cant")
